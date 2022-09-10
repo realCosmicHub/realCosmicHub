@@ -1,33 +1,37 @@
 ![Header](./header.png)
 
-- 👋 https://discord.gg/BSrHH3W58W
-- 👋 https://realcosmichub.github.io/comisc.github.io-main/
 
-C͟o͟n͟t͟a͟c͟t͟
-- 📫 Reach me at: Cosmic#0032
+<h2 align="center">Contact.</h2>
 
+- 📫 Discord  : Cosmic#0032
+- 👋 Server   : https://discord.gg/BSrHH3W58W
 
-A͟b͟o͟u͟t͟ ͟m͟e͟
-- 🌱 Language: English/German
+<h2 align="center">About me.</h2>
+
+- 🌱 Languages : English | German
 - 👀 Interested in Cheats | Simple Scripts | Reverse Engineering
+- 🌱 i mainly use these pogramm Languages : C# | C++ | Python
+
+<p href="Cosmic" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/982622509859995668/>
+</p>
 
 <!---
 realCosmicHub/realCosmicHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<p href="Cosmic" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/982622509859995668>
-</p>
 
-<h1 align="center">Stats</h1>
-<a href="https://github.com/realCosmicHub/"></a>
+
+<h2 align="center">My github profile stastictics.</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realCosmicHub&theme=midnight-purple&show_icons=true" />
-</p>
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazza3100&theme=midnight-purple&show_icons=true)
- -->
+    <a href="https://github.com/realCosmicHub">
+        <img title="Cosmic stats" alt="realCosmicHub's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=realCosmicHub&theme=dark&hide_border=true&stroke=f53b3b"/>
+    </a>
+</p><br>
+<a href="https://github.com/realCosmicHub"><img alt="realCosmicHub's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=realCosmicHub&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+ 
 
 
 ![Footer](./footer.png)
