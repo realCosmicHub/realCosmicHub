@@ -1,6 +1,7 @@
 ![Header](./header.png)
 
 - 👋 https://discord.gg/BSrHH3W58W
+- 👋 https://realcosmichub.github.io/comisc.github.io-main/
 
 C͟o͟n͟t͟a͟c͟t͟
 - 📫 Reach me at: Cosmic#0032
