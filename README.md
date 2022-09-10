@@ -8,7 +8,7 @@ C͟o͟n͟t͟a͟c͟t͟
 
 
 A͟b͟o͟u͟t͟ ͟m͟e͟
-- 🌱 Language: English/Ger,am
+- 🌱 Language: English/German
 - 👀 Interested in Cheats | Simple Scripts | Reverse Engineering
 
 <!---
