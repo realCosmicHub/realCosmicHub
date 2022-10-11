@@ -4,11 +4,11 @@
 <h2 align="center">Contact.</h2>
 
 - 📫 Discord  : Cosmic#0032
-- 👋 Server   : https://discord.gg/BSrHH3W58W
+- 👋 Server   : I don't a server anymore
 
 <h2 align="center">About me.</h2>
 
-- 🌱 Languages : English | German
+- 🌱 Languages : English
 - 👀 Interested in Cheats | Simple Scripts | Reverse Engineering
 - 🌱 i mainly use these pogramm Languages : C# | C++ | Python
 
